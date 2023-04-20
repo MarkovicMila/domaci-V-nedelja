@@ -1,0 +1,29 @@
+Postovani,
+
+U prilogu se nalazi excel fajl kao i tekst zadatka za domaci.
+
+Iz excel fajla sampledatafoodsales.xlsx ucitati kolone ID, City, Product, Qty, UnitPrice kao serije (Pandas Series).
+Nakon sto ucitate sih 5 kolona kao serije kreirati bazu podataka Food i tabelu foodsales.
+Popuniti redove u bazi sa podacima iz serija koje su popunjene prethodno ucitanima podacima iz excel fajla.
+Takodje na kraju kreirati i jedan excel fajl koji ce imati u prvoj koloni sledece tekstove:
+Min Qty
+Max Qty
+Avg Qty
+Min UnitPrice
+Max UnitPrice
+Avg UnitPrice
+All Products
+All City
+
+U koloni pored s desne strane ce polja biti popunjena sa sledecim podacima:
+
+Najmanja kolicina
+Najveca kolicina
+Srednja vrednost kolicine
+Najmanja cena po komadu
+Najveca cena po komadu
+Srednja cena po komadu
+Koliko ukupno proizovda ima
+Koliko ukupno gradova ima
+
+Fajl sacuvati pod nasivom info.xlsx
